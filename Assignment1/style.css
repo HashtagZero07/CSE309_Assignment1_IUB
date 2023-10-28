@@ -1,0 +1,207 @@
+html{
+
+    font-size: 28px;
+    font-family:'Times New Roman', Times, serif ;
+}
+
+.week1_main{
+
+    display: flex;
+    gap: 20px;
+}
+
+.week2_main{
+
+    display: flex;
+    gap: 20px;
+}
+.week3_main{
+
+    display: flex;
+    gap: 20px;
+}
+.week4_main{
+
+    display: flex;
+    gap: 20px;
+}
+.week5_main{
+
+    display: flex;
+    gap: 20px;
+}
+.week6_main{
+
+    display: flex;
+    gap: 20px;
+}
+.week7_main{
+
+    display: flex;
+    gap: 20px;
+}
+
+
+.week1_sub1{
+
+    display: flex;
+    gap: 20px;
+    padding-top: 10px;
+    padding-bottom: 20px;
+
+}
+.week2_sub1{
+
+    display: flex;
+    gap: 20px;
+    padding-top: 10px;
+    padding-bottom: 20px;
+}
+.week3_sub1{
+
+    display: flex;
+    gap: 20px;
+    padding-top: 10px;
+    padding-bottom: 20px;
+}
+.week4_sub1{
+
+    display: flex;
+    gap: 20px;
+    padding-top: 10px;
+    padding-bottom: 20px;
+}
+.week5_sub1{
+
+    display: flex;
+    gap: 20px;
+    padding-top: 10px;
+    padding-bottom: 20px;
+}
+.week6_sub1{
+
+    display: flex;
+    gap: 20px;
+    padding-top: 10px;
+    padding-bottom: 20px;
+}
+.week7_sub1{
+
+    display: flex;
+    gap: 20px;
+    padding-top: 10px;
+    padding-bottom: 20px;
+}
+
+
+.slides{
+
+    border: 2px solid;
+    border-radius: 10px;
+    border-color: rgb(202, 167, 235);
+    background-color: rgb(188, 156, 218);
+    text-decoration: underline;
+
+}
+
+.starter_code{
+
+    border: 2px solid;
+    border-radius: 10px;
+    border-color: rgb(150, 150, 219);
+    background-color: rgb(150, 150, 219);
+    text-decoration: underline;
+
+}
+
+.checkoff_form{
+
+    border: 2px solid;
+    border-radius: 10px;
+    border-color: rgb(219, 147, 95);
+    background-color: rgb(219, 147, 95);
+    text-decoration: underline;
+
+
+}
+
+.solution{
+
+    border: 2px solid;
+    border-radius: 10px;
+    border-color: rgb(123, 221, 123);
+    background-color: rgb(123, 221, 123);
+    text-decoration: underline;
+
+
+}
+
+.week1{
+
+    border: 1px solid;
+    border-radius: 10px;
+    border-color: rgb(190, 186, 186);
+    background-color: rgb(190, 186, 186);
+    margin-bottom: 50px;
+
+}
+
+.week2{
+
+    border: 1px solid;
+    border-radius: 10px;
+    border-color: rgb(190, 186, 186);
+    background-color: rgb(190, 186, 186);
+    margin-bottom: 50px;
+
+}
+
+.week3{
+
+    border: 1px solid;
+    border-radius: 10px;
+    border-color: rgb(190, 186, 186);
+    background-color: rgb(190, 186, 186);
+    margin-bottom: 50px;
+
+}
+
+.week4{
+
+    border: 1px solid;
+    border-radius: 10px;
+    border-color: rgb(190, 186, 186);
+    background-color: rgb(190, 186, 186);
+    margin-bottom: 50px;
+   
+}
+
+.week5{
+
+    border: 1px solid;
+    border-radius: 10px;
+    border-color: rgb(190, 186, 186);
+    background-color: rgb(190, 186, 186);
+    margin-bottom: 50px;
+
+}
+
+.week6{
+
+    border: 1px solid;
+    border-radius: 10px;
+    border-color: rgb(190, 186, 186);
+    background-color: rgb(190, 186, 186);
+    margin-bottom: 50px;
+
+}
+
+.week7{
+
+    border: 1px solid;
+    border-radius: 10px;
+    border-color: rgb(190, 186, 186);
+    background-color: rgb(190, 186, 186);
+    margin-bottom: 30px;
+
+}
